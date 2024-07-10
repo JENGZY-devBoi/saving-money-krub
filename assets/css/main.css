@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --blue-50: #f0f6fe;
+    --blue-100: #deeafb;
+    --blue-200: #c4dcf9;
+    --blue-300: #6ca7ee;
+    --blue-400: #6ca7ee;
+    --blue-500: #3d7ee6;
+    --blue-600: #346adc;
+    --blue-700: #2b56ca;
+    --blue-800: #2947a4;
+    --blue-900: #263e82;
+    --blue-950: #1c284f;
+
+    --gray-50: #f8f8f8;
+    --gray-100: #ebebeb;
+    --gray-200: #dcdcdc;
+    --gray-300: #bdbdbd;
+    --gray-400: #989898;
+    --gray-500: #7c7c7c;
+    --gray-600: #656565;
+    --gray-700: #525252;
+    --gray-800: #464646;
+    --gray-900: #3d3d3d;
+    --gray-950: #292929;
+
+    --green-50: #f1ffe6;
+    --green-100: #deffc8;
+    --green-200: #bfff97;
+    --green-300: #95fb5b;
+    --green-400: #78f236;
+    --green-500: #4ed80a;
+    --green-600: #39ad03;
+    --green-700: #2d8308;
+    --green-800: #28670d;
+    --green-900: #235710;
+    --green-950: #0d3102;
+}
